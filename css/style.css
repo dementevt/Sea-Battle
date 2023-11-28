@@ -78,21 +78,5 @@ p {margin-bottom: 10px;}
 }
 .explosion.active { animation-name: Explosion; animation-duration: 0.4s; transform: scale(1); }
 
-@media only screen and (max-width: 768px) {
-    .wrap {
-        width: 100%;
-        padding: 10px;
-    }
 
-    .battlefield {
-        width: 100%;
-        height: auto;
-    }
-
-    .text-top {
-        font-size: 18px;
-    }
-
-    /* ... (продолжайте добавлять необходимые стили для мобильных устройств) */
-}
 
